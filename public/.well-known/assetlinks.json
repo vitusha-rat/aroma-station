@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.vitusha_rat.aromastation",
+      "sha256_cert_fingerprints": ["7F:D8:24:F5:ED:8F:2D:18:95:29:07:C6:F3:B8:36:3A:F1:14:EA:EB:EF:00:B8:6F:EF:92:EB:47:F2:A7:7B:0D"]
+    }
+  }
+]

@@ -1,0 +1,9 @@
+node_modules
+dist
+.netlify
+*.apk
+*.aab
+*.keystore
+*.jks
+.env*
+.DS_Store
